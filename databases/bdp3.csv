@@ -1,0 +1,9 @@
+Campo,Descripción,tipo de dato, Ejemplo, Cantidad únicos
+ID_cliente, Identificador del cliente, string, CLIENTE1, 113456 
+Fecha, Año y mes de los datos, numérico, 202103,36 
+Cuenta, Número de cuenta que hizo la transacción, string ,1234567890 ,185678 
+Tipo_cuenta,Cuenta es de crédito o débito, string, CRE - DEB,2 
+plan_lealtad, plan de lealtad de la cuenta, string, Millas Plus,12 
+Color ,color de la tarjeta de crédito ,string ,Black,4 
+Monto_trx, Monto de la transacción, numérico, 117.56, 81456662 
+Afiliado,Comercio donde se hizo la transacción, string ,30405060,25678 
